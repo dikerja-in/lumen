@@ -7,3 +7,5 @@ Generate Bearer Token
 ``` bash
 php artisan token:generate
 ```
+
+## Return json for abort(404) and abort(405) [#015287f](https://github.com/dikerja-in/lumen/commit/015287f4b686a00514b417560ca96d61f1fe3899)
